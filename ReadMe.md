@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
   Olá, sou @Matheus-Sousa-Ferreira<br>- 👀 Estou a procura de Estágio<br>- 🌱 Atualmente estou cursando analise e desenvolvimento de sistemas<br>- 💞️ Procuro colaborar em grandes projetos de programação<br>- 📫 E-mail: msousaferreira0@gmail.com    CEL: 11 97467-7024<br>- 😄 Qualificações Pessoais: Proavatividade, Comunicação, Bom relacionamento em equipe<br>- ⚡Conhecimento em: HTML5; CSS3 ; JavaScript.<br><br>
 
 
